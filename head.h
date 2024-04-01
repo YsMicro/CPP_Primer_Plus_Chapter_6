@@ -21,4 +21,6 @@
 
 [[maybe_unused]] int code_08();
 
+[[maybe_unused]] int code_09();
+
 #endif //CPP_PRIMER_PLUS_CHAPTER_6_HEAD_H
