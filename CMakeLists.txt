@@ -10,6 +10,7 @@ add_executable(CPP_Primer_Plus_Chapter_6 main.cpp
         #        Code/06_03_ifelseif.cpp
         #        Code/06_04_or.cpp
         #        Code/06_05_and.cpp
-        Code/06_06_more_and.cpp
-        Code/06_07_not.cpp
+#        Code/06_06_more_and.cpp
+#        Code/06_07_not.cpp
+        Code/06_08_cctypes.cpp
 )
