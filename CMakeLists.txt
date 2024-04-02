@@ -14,7 +14,7 @@ add_executable(CPP_Primer_Plus_Chapter_6 main.cpp
 #        Code/06_07_not.cpp
 #        Code/06_08_cctypes.cpp
 #        Code/06_09_condit.cpp
-#        Code/09_10_switch.cpp
-#        Code/09_11_enum.cpp
+#        Code/06_10_switch.cpp
+#        Code/06_11_enum.cpp
         Code/06_12_jump.cpp
 )
