@@ -17,5 +17,6 @@ add_executable(CPP_Primer_Plus_Chapter_6 main.cpp
 #        Code/06_10_switch.cpp
 #        Code/06_11_enum.cpp
 #        Code/06_12_jump.cpp
-        Code/06_13_cinFish.cpp
+#        Code/06_13_cinFish.cpp
+        Code/06_14_cinGolf.cpp
 )
