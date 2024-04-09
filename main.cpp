@@ -18,7 +18,9 @@ int main() {
 //    code_13();
 //    code_14();
 //    code_15();
-    code_16();
+//    code_16();
+
+    practice_01();
 
     return 0;
 }
