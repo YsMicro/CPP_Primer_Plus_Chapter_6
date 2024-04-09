@@ -20,7 +20,8 @@ int main() {
 //    code_15();
 //    code_16();
 
-    practice_01();
+//    practice_01();
+    practice_02();
 
     return 0;
 }
