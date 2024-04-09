@@ -33,4 +33,6 @@
 
 [[maybe_unused]] int code_14();
 
+[[maybe_unused]] int code_15();
+
 #endif //CPP_PRIMER_PLUS_CHAPTER_6_HEAD_H
