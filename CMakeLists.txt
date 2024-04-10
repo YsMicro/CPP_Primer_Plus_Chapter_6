@@ -22,5 +22,6 @@ add_executable(CPP_Primer_Plus_Chapter_6 main.cpp
 #        Code/06_15_outFile.cpp
 #        Code/06_16_sumFile.cpp
 #        Practice/06_01.cpp
-        Practice/06_02.cpp
+#        Practice/06_02.cpp
+        Practice/06_03.cpp
 )
