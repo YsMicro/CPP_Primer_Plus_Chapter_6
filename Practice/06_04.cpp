@@ -2,7 +2,7 @@
 #include <iostream>
 
 
-[[maybe_unused]] int practice_06() {
+[[maybe_unused]] int practice_04() {
 
     using namespace std;
 
