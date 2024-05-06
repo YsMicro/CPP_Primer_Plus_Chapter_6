@@ -23,7 +23,8 @@ int main() {
 //    practice_01();
 //    practice_02();
 //    practice_03();
-    practice_06();
+//    practice_04();
+    practice_05();
 
     return 0;
 }
