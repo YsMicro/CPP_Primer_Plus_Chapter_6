@@ -48,5 +48,10 @@
         }
     }
     delete[] Patrons;
-    return 0;
+//    return 0;
+    if (grand_is_empty) {
+        return 0;
+    } else {
+        return 1;
+    }
 }
