@@ -13,7 +13,7 @@
     double d_price;
 
     ofstream outFile;
-    outFile.open("carInfo.txt");
+    outFile.open("..\\Practice\\carInfo.txt");
     cout << "输入汽车的制造商和型号：";
     cin.getline(autoMobile, 50);
     cout << "输入车型年份：";

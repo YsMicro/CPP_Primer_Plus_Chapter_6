@@ -11,7 +11,7 @@ const int SIZE = 60;
     using namespace std;
     char filename[SIZE];
     ifstream inFile;
-    cout << "输入数据文件的名字：";
+    cout << "输入数据文件的名字：";//scores.txt
     cin.getline(filename, SIZE);
     inFile.open(filename);
     if (!inFile.is_open()) {
