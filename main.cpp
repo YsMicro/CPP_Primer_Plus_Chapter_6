@@ -18,7 +18,7 @@ int main() {
 //    code_13();
 //    code_14();
 //    code_15();
-    code_16();
+//    code_16();
 
 //    practice_01();
 //    practice_02();
@@ -28,5 +28,6 @@ int main() {
 //    practice_06();
 //    practice_07();
 //    practice_08();
+    practice_09();
     return 0;
 }
