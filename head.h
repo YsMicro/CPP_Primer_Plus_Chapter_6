@@ -50,4 +50,6 @@
 [[maybe_unused]] int practice_06();
 
 [[maybe_unused]] int practice_07();
+
+[[maybe_unused]] int practice_08();
 #endif //CPP_PRIMER_PLUS_CHAPTER_6_HEAD_H
